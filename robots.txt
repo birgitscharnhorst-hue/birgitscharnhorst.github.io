@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://birgitscharnhorst.github.io/IHR_birgitscharnhorst/sitemap.xml
+Sitemap: https://www.birgit-scharnhorst-photography.de/sitemap.xml
