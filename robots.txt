@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://birgitscharnhorst-hue.github.io/birgitscharnhorst.github.io/sitemap.xml
+Sitemap: https://birgitscharnhorst-hue.github.io/sitemap.xml
