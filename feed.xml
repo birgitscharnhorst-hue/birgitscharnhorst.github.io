@@ -3,7 +3,7 @@
     <title>birgit scharnhorst fotografie</title>
     <link href="https://birgit-scharnhorst-photography.de/feed.xml" rel="self" />
     <link href="https://birgit-scharnhorst-photography.de" />
-    <updated>2026-06-08T15:33:22+02:00</updated>
+    <updated>2026-06-08T15:36:34+02:00</updated>
     <author>
         <name>Birgit Scharnhorst</name>
     </author>
@@ -51,7 +51,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://birgit-scharnhorst-photography.de/media/posts/26/SW1.avif" height="null" width="null" alt="" >
+      <img loading="lazy" src="https://birgit-scharnhorst-photography.de/media/posts/26/SW1.avif" height="[object Object]" width="[object Object]" alt="" >
       
     </figure>
 
@@ -65,7 +65,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://birgit-scharnhorst-photography.de/media/posts/26/SW2.avif" height="null" width="null" alt="" >
+      <img loading="lazy" src="https://birgit-scharnhorst-photography.de/media/posts/26/SW2.avif" height="[object Object]" width="[object Object]" alt="" >
       
     </figure>
 
@@ -96,10 +96,6 @@
       
     </figure>
 
-  <p>
-    <strong>Namib Naukluftpark - Sossusvlei und Deadvlei</strong>
-  </p>
-
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="2">
       <figure class="gallery__item">
@@ -117,7 +113,7 @@
   </div>
 
   <p>
-    Namib Naukluft Nationalpark<br><br>Angekommen im Sesriem-Camp fahren wir zum Sesriem-Canyon. Beim Canyon hat sich der Tsauchab bis zu 30 Meter tief in das Geröll gegraben. Die frühen Siedler mussten sechs Ochsenriemen zusammenbinden (Afrikaans: ses riem), um das Wasser, das sich in kleinen Pools hier sammelt, für die Rinder und Schafe zu schöpfen. In diesem Canyon bekommt man einen imposanten Einblick in die Erdgeschichte Namibias.
+    <strong>Namib Naukluft Nationalpark</strong><br><br>Angekommen im Sesriem-Camp fahren wir zum Sesriem-Canyon. Beim Canyon hat sich der Tsauchab bis zu 30 Meter tief in das Geröll gegraben. Die frühen Siedler mussten sechs Ochsenriemen zusammenbinden (Afrikaans: ses riem), um das Wasser, das sich in kleinen Pools hier sammelt, für die Rinder und Schafe zu schöpfen. In diesem Canyon bekommt man einen imposanten Einblick in die Erdgeschichte Namibias.
   </p>
 
     <figure class="post__image post__image--center">
@@ -309,7 +305,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://birgit-scharnhorst-photography.de/media/posts/26/Waterberg.avif" height="null" width="null" alt="" >
+      <img loading="lazy" src="https://birgit-scharnhorst-photography.de/media/posts/26/Waterberg.avif" height="[object Object]" width="[object Object]" alt="" >
       
     </figure>
 
@@ -327,12 +323,12 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://birgit-scharnhorst-photography.de/media/posts/26/Caprivi1.avif" height="null" width="null" alt="" >
+      <img loading="lazy" src="https://birgit-scharnhorst-photography.de/media/posts/26/Caprivi1.avif" height="[object Object]" width="[object Object]" alt="" >
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://birgit-scharnhorst-photography.de/media/posts/26/Caprivi2.avif" height="null" width="null" alt="" >
+      <img loading="lazy" src="https://birgit-scharnhorst-photography.de/media/posts/26/Caprivi2.avif" height="[object Object]" width="[object Object]" alt="" >
       
     </figure>
 
@@ -341,7 +337,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://birgit-scharnhorst-photography.de/media/posts/26/Mudumu.avif" height="null" width="null" alt="" >
+      <img loading="lazy" src="https://birgit-scharnhorst-photography.de/media/posts/26/Mudumu.avif" height="[object Object]" width="[object Object]" alt="" >
       
     </figure>
 
