@@ -3,7 +3,7 @@
     <title>birgit scharnhorst fotografie</title>
     <link href="https://birgit-scharnhorst-photography.de/feed.xml" rel="self" />
     <link href="https://birgit-scharnhorst-photography.de" />
-    <updated>2026-10-17T17:06:40+02:00</updated>
+    <updated>2026-10-17T17:47:39+02:00</updated>
     <author>
         <name>Birgit Scharnhorst</name>
     </author>
@@ -29,6 +29,11 @@
   <p>
     Mit dem Campervan durch Italien - von Apulien bis in die Dolomiten.
   </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://birgit-scharnhorst-photography.de/media/posts/28/D73B4AFD-0457-46FC-A4F7-0B273B8C61EC_1_105_c.jpeg" height="724" width="1086" alt=""  sizes="(min-width: 37.5em) 1600px, 90vw" srcset="https://birgit-scharnhorst-photography.de/media/posts/28/responsive/D73B4AFD-0457-46FC-A4F7-0B273B8C61EC_1_105_c-xs.jpeg 384w ,https://birgit-scharnhorst-photography.de/media/posts/28/responsive/D73B4AFD-0457-46FC-A4F7-0B273B8C61EC_1_105_c-sm.jpeg 600w ,https://birgit-scharnhorst-photography.de/media/posts/28/responsive/D73B4AFD-0457-46FC-A4F7-0B273B8C61EC_1_105_c-md.jpeg 768w ,https://birgit-scharnhorst-photography.de/media/posts/28/responsive/D73B4AFD-0457-46FC-A4F7-0B273B8C61EC_1_105_c-lg.jpeg 1200w ,https://birgit-scharnhorst-photography.de/media/posts/28/responsive/D73B4AFD-0457-46FC-A4F7-0B273B8C61EC_1_105_c-xl.jpeg 1600w">
+      
+    </figure>
 
   <p>
     Unsere Route im September und Oktober 2026: weiße Küstenorte, urlalte Olivenhaine, faszinierende Felsenstädte und ganz viel italienisches Lebensgefühl.
@@ -431,11 +436,6 @@
     </figure><figure class="gallery__item">
       <a href="https://birgit-scharnhorst-photography.de/media/posts/28/gallery/8DD357AB-0FC2-46E2-9838-166BFB886A09_1_105_c.jpeg" data-size="1086x724">
         <img loading="lazy" src="https://birgit-scharnhorst-photography.de/media/posts/28/gallery/8DD357AB-0FC2-46E2-9838-166BFB886A09_1_105_c-thumbnail.jpeg" height="512" width="768" alt="" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://birgit-scharnhorst-photography.de/media/posts/28/gallery/49C429AE-08E3-455D-8988-192588F34970_1_105_c.jpeg" data-size="1086x724">
-        <img loading="lazy" src="https://birgit-scharnhorst-photography.de/media/posts/28/gallery/49C429AE-08E3-455D-8988-192588F34970_1_105_c-thumbnail.jpeg" height="512" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
